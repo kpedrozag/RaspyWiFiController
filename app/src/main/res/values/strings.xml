@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Raspy Wi-Fi Controller</string>
+
+    <string name="welcome">Bienvenido al controlador inalámbrico\ndel RaspberryRobot Prototype</string>
+
+    <string name="login_message">Asegúrate de estar conectado a\nla red ianlámbrica de la Raspberry.\n\nUna vez hecho esto, oprime el botón\nConectar para emparejarse con el Robot.</string>
+
+    <string name="failed_connection">Conexión fallida.\nRevisa tu conexión a la red de la Raspberry.</string>
+
+    <string name="connect_botton">Conectar</string>
+
+    <string name="logout">Desconectar</string>
+</resources>
